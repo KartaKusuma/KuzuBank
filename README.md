@@ -1,5 +1,5 @@
 # KuzuBank
-SmartApp for cashless transaction
+SmartApp for cashless transaction in banking operations
 
 
 ### Programming Language
